@@ -5,8 +5,6 @@ from datetime import datetime, timezone
 from typing import Optional, List, Tuple, Dict
 import requests
 from config import ES_URL, API_KEY_B64, RELEASE_INFO_URL, DEST_INDEX as MACOS_DEST_INDEX
-# ---------------------------
-# add near your imports
 import re
 from typing import Tuple
 
