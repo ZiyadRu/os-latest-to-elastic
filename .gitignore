@@ -14,7 +14,9 @@ ENV/
 .env
 .env.*
 !.env.example          
-
+mint_releases.json
+Parrot_releases.json
+ubuntu_releases.json
 # --- VS Code / editors
 .vscode/
 .idea/
